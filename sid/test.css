@@ -186,7 +186,7 @@ margin-bottom: 10px; /* Adjust the margin-bottom to move the h4 tag up */
     padding: 7px;
 }
 .row{
-    display: grid;g
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;    
 }
 .colospan,li{
